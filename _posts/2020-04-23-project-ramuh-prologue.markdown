@@ -32,6 +32,7 @@ My day-to-day work is mainly focused on business logic and backend development. 
 Moreover, I think it will also be a good training on designing an application using micro-services architecture.
 
 This project is kind of a big one to start with. That is the reason why I will do it step by step, by chapters. The available chapters will are listed below.
+- [Chapter 1: Walking skeleton]({% post_url 2020-04-27-project-ramuh-chapter-1 %})
 
 Next article will be focused on the walking skeleton of "Project Ramuh".
 
