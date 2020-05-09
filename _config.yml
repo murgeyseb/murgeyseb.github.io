@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Another coding blog from a developer in electrical power systems.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
+twitter_username: SMurgey
 github_username:  murgeyseb
 
 plainwhite:
@@ -30,6 +30,7 @@ plainwhite:
   social_links:
     github: murgeyseb
     linkedIn: in/sébastien-murgey-61338338 # format: locale/username
+    twitter: SMurgey
     
 # Build settings
 markdown: kramdown
