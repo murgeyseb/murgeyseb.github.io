@@ -33,6 +33,7 @@ Moreover, I think it will also be a good training on designing an application us
 
 This project is kind of a big one to start with. That is the reason why I will do it step by step, by chapters. The available chapters will are listed below.
 - [Chapter 1: Walking skeleton]({% post_url 2020-04-27-project-ramuh-chapter-1 %})
+- [Chapter 2: Google Cloud Platform deployment]({% post_url 2020-05-11-project-ramuh-chapter-2 %})
 
 Next article will be focused on the walking skeleton of "Project Ramuh".
 
