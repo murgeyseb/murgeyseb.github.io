@@ -706,7 +706,7 @@ export default App;
 
 A request is sent to the backend each time a file is dropped on the map. The output GeoJSON is sent to our GridMap, and a new layer key is generated each time, using **uuid** module.
 
-It is now time to test it with our exampe cases. Do not forget to enable CORS in your browser when testing the communication between front-end and back-end.
+It is now time to test it with our example cases. Do not forget to enable CORS in your browser when testing the communication between front-end and back-end.
 
 ![Example of Nordic32 case overlay](/assets/nordic32-overlay.png)
 
